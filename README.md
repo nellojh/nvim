@@ -18,3 +18,4 @@ git clone https://github.com/nelloloujh/nvim.git ~/.config/nvim
 - alpha首页修改
 - 通知加速消失
 - markdown-preview `:MarkdownPreview`
+- mason lsp
